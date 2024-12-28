@@ -1,1 +1,11 @@
+# PDF Reader
 
+This project is a PDF reader application built with React, TypeScript, and Vite. It allows users to upload PDF files or provide a URL to a PDF file and view the document with various controls for navigation, zooming, and rotation.
+
+## Features
+
+- **File Upload**: Users can upload PDF files from their local machine.
+- **URL Input**: Users can provide a URL to a PDF file.
+- **PDF Viewer**: Displays the PDF document with controls for navigation, zooming, and rotation.
+- **Responsive Design**: The application is designed to be responsive and user-friendly.
+ 

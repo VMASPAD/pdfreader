@@ -1,4 +1,5 @@
 # PDFReader
+![626shots_so](https://github.com/user-attachments/assets/d69d3ed1-9f20-4960-87e3-c2d65acb7739)
 
 PDFReader is a web application designed to facilitate the viewing and management of PDF documents directly in the browser.
 
@@ -26,7 +27,7 @@ To set up the project locally:
 
 1. **Clone the repository** :
    ```bash
-   git clone [https://github.com/VMASPAD/pdfreader.git](https://github.com/VMASPAD/pdfreader.git)
+   git clone https://github.com/VMASPAD/pdfreader.git
     ```
 
 1. **Navigate to the project directory** :
